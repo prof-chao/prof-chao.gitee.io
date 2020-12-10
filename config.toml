@@ -1,0 +1,5 @@
+baseURL = "https://prof-chao.github.io/"
+languageCode = "zh-CN"
+title = "巢圣 Chao"
+theme = "ananke"
+publishdir = "docs"
